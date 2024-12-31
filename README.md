@@ -24,7 +24,7 @@ The Gym Registration Application allows students to register for gym batches, ma
 
 ### Clone the Repository
 ```bash
-git clone <repository_url>
+git clone https://github.com/vivek-singh-13/gym-registration-form.git
 cd gym-registration
 ```
 
@@ -89,7 +89,7 @@ cd gym-registration
 ### Frontend Setup
 1. **Navigate to Frontend Directory**:
    ```bash
-   cd ../gym-frontend
+   cd gym-frontend
    ```
 
 2. **Install Dependencies**:
